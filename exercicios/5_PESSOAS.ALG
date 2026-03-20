@@ -20,10 +20,10 @@ Inicio
 
       n <- n + 1
 
-      escreva ("Informe a idade da ",n,"ª pessoa: ")
+      escreva ("Informe a idade da ",n,"Âª pessoa: ")
       leia (i)
 
-      escreva ("Infome o sexo da ",n," ª pessoa (M/F): ")
+      escreva ("Infome o sexo da ",n," Âª pessoa (M/F): ")
       leia (s)
       
       escreval (" ")
@@ -52,8 +52,8 @@ Inicio
    
    escreval ("Homens cadastrados: ",h)
    escreval ("Mulheres cadastradas: ",m)
-   escreval ("Média de idade do grupo: ",media)
-   escreval ("Média de idade dos homens: ",mediah)
+   escreval ("MÃ©dia de idade do grupo: ",media)
+   escreval ("MÃ©dia de idade dos homens: ",mediah)
    escreval ("Mulheres com mais de 20 anos: ",mvinte)
    
 Fimalgoritmo
