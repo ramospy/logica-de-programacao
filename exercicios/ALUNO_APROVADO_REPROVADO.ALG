@@ -1,4 +1,4 @@
-algoritmo "ALUNO_aprovado_reprovado_recuperÁao"
+algoritmo "ALUNO_aprovado_reprovado_recuper√ßao"
 var
 
    media,nota1,nota2: real
@@ -6,7 +6,7 @@ var
 inicio
 
       Escreval ("---------------------------------------------------------")
-      Escreval ("-----------ITB BRASÕLIO FLORES DE AZEVEDO----------------")
+      Escreval ("-----------ITB BRAS√çLIO FLORES DE AZEVEDO----------------")
       Escreval ("---------------------------------------------------------")
       
       Escreva ("PRIMEIRA NOTA: ")
@@ -18,17 +18,17 @@ inicio
       Media <- (nota1+nota2) / 2
       
      Escreval ("----------------------------------------------------")
-     Escreval ("-----------STATUS DE APROVA«√O DO ALUNO-------------")
+     Escreval ("-----------STATUS DE APROVA√á√ÉO DO ALUNO-------------")
      Escreval ("----------------------------------------------------")
-     Escreval ("MÈdia do aluno:",media)
+     Escreval ("M√©dia do aluno:",media)
       
       Se (Media >= 6) entao
-         Escreval ("SituaÁ„o: ParabÈns! VocÍ foi aprovado.")
+         Escreval ("Situa√ß√£o: Parab√©ns! Voc√™ foi aprovado.")
       senao
            Se (media >= 5) e (media < 6) entao
-              Escreval ("SituaÁ„o: Aluno em recuperaÁ„o.")
+              Escreval ("Situa√ß√£o: Aluno em recupera√ß√£o.")
            senao
-                Escreval ("SituaÁ„o: Infelizmente,vocÍ foi reprovado.")
+                Escreval ("Situa√ß√£o: Infelizmente,voc√™ foi reprovado.")
            FimSe
       Fimse
 
