@@ -28,13 +28,13 @@ inicio
             Se (carro = "luxo") e (km > 200) entao
                valor_total <- (150 * dias) + (0.25 * km)
             senao
-               Escreva ("Erro na digitação,tente novamente.")
+               Escreva ("Erro na digitaÃ§Ã£o,tente novamente.")
             FimSe
          FimSe
       FimSe
    FimSe
 
-   Escreva ("O preço a ser pago será de R$: ",valor_total)
+   Escreva ("O preÃ§o a ser pago serÃ¡ de R$: ",valor_total)
 
 
 fimalgoritmo
