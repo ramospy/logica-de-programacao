@@ -17,7 +17,7 @@ Inicio
    
       n <- n + 1
 
-      escreva ("Informe a idade da ",n, "ª pessoa: ")
+      escreva ("Informe a idade da ",n, "Âª pessoa: ")
       leia (i)
 
       se (i > maioridade) entao
@@ -43,7 +43,7 @@ Inicio
    escreval ("   ")
    escreval ("   ")
    
-   escreval ("Média de idada do grupo: ",m)
+   escreval ("MÃ©dia de idada do grupo: ",m)
    escreval ("Pessoas com mais de 18 anos: ",b)
    escreval ("Pessoas com menos de 5 anos: ",c)
    escreval ("Maior idade lida: ",maioridade)
